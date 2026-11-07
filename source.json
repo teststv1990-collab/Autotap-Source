@@ -7,6 +7,7 @@
       "bundleIdentifier": "app.autotap.AutoTap",
       "developerName": "AutoTap",
       "subtitle": "AutoTap iOS app",
+      "iconURL": "https://cdn.discordapp.com/icons/1556184920429305917/3bc123b9191cfd15242165a6b1ab17c4.webp?size=512",
       "localizedDescription": "AutoTap version 1.1.7 (build 62). Requires iOS 17.4 or later.",
       "versions": [
         {
