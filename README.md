@@ -1,6 +1,6 @@
 # AutoTap Source
 
-AltStore-compatible source for AutoTap iOS.
+LiveContainer-compatible source for AutoTap iOS.
 
 ## Source URL
 
